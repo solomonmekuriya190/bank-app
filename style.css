@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+}
+
+.table th {
+  font-weight: 600;
+  color: #6c757d;
+}
+
+#alert-container {
+  position: fixed;
+  top: 70px;
+  right: 20px;
+  z-index: 1050;
+  min-width: 320px;
+}
